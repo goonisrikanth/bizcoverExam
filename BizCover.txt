@@ -1,0 +1,9 @@
+INFO    2019-07-21 16:29:56,700 [main] com.automation.bizcover.tests.stepDefinitions.Steps  - User Registration process has been initiated
+INFO    2019-07-21 16:29:56,715 [main] com.automation.bizcover.pages.LandingPage  - Navigating to CreateAccount page.
+INFO    2019-07-21 16:29:58,506 [main] com.automation.bizcover.pages.CreateAccountPage  - Creating account with ameliabowen@mail.com email address.
+INFO    2019-07-21 16:29:58,687 [main] com.automation.bizcover.pages.CreateAccountPage  - Navigating to CreateAccount with personal details page.
+INFO    2019-07-21 16:29:58,834 [main] com.automation.bizcover.pages.CreateAccountPersonalInformationPage  - Entering all the personal details for registration process.
+INFO    2019-07-21 16:30:02,099 [main] com.automation.bizcover.pages.CreateAccountPersonalInformationPage  - Registering with all the necessary details.
+INFO    2019-07-21 16:30:03,827 [main] com.automation.bizcover.tests.stepDefinitions.Steps  - User Registration complete. Now, verifying the registraion.
+INFO    2019-07-21 16:30:03,861 [main] com.automation.bizcover.pages.AccountPage  - User Registration seems to be successful... as we are able to see the Signout link
+INFO    2019-07-21 16:30:03,863 [main] com.automation.bizcover.tests.stepDefinitions.Steps  - Registration completed successfully.

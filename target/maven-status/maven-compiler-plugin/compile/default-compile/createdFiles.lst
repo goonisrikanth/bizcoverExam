@@ -1,0 +1,9 @@
+com\automation\bizcover\modal\User$UserFields.class
+com\automation\bizcover\framework\DriverFactory.class
+com\automation\bizcover\pages\CreateAccountPage.class
+com\automation\bizcover\framework\SeleniumWrapper.class
+com\automation\bizcover\pages\CreateAccountPersonalInformationPage.class
+com\automation\bizcover\pages\BasePage.class
+com\automation\bizcover\pages\LandingPage.class
+com\automation\bizcover\pages\AccountPage.class
+com\automation\bizcover\modal\User.class

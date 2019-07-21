@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18150" started-at="2019-07-21T06:29:46Z" finished-at="2019-07-21T06:30:04Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="18150" started-at="2019-07-21T06:29:46Z" finished-at="2019-07-21T06:30:04Z">
+      <class name="com.automation.bizcover.tests.runners.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="setUpClass" is-config="true" duration-ms="241" started-at="2019-07-21T16:29:46Z" finished-at="2019-07-21T16:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="init" is-config="true" duration-ms="9154" started-at="2019-07-21T16:29:46Z" finished-at="2019-07-21T16:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="feature" duration-ms="7961" started-at="2019-07-21T16:29:55Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-07-21T16:30:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bizcover_QA_PracticalExam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="tearDown" is-config="true" duration-ms="696" started-at="2019-07-21T16:30:03Z" finished-at="2019-07-21T16:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.automation.bizcover.tests.runners.TestRunner@5792a0]" name="tearDownClass" is-config="true" duration-ms="8" started-at="2019-07-21T16:30:04Z" finished-at="2019-07-21T16:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.automation.bizcover.tests.runners.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

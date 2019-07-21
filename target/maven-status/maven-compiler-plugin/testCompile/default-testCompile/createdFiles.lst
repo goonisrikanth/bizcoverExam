@@ -1,0 +1,4 @@
+com\automation\bizcover\tests\stepDefinitions\Steps.class
+com\automation\bizcover\tests\runners\TestRunner.class
+com\automation\bizcover\tests\BaseTest.class
+com\automation\bizcover\tests\SignupTest.class

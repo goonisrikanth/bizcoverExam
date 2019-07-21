@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="bizcover suite">
+ <test name=" bizcover testngTest">
+ <parameter name="browserType" value="Chrome"></parameter>
+ <parameter name="appURL" value="http://automationpractice.com/index.php"></parameter>
+ <classes>
+   <class name="com.automation.bizcover.tests.runners.TestRunner" />
+ </classes>
+ </test>
+</suite>
